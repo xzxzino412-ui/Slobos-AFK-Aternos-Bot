@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xballowsmp.aternos.me",
+    "ip": "xballowsmp.aternos.me,"
     "port": 63279,
     "version": "",
     "try-creative": false
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "LIKE to Xballow!",
         "I like to play Minecraft!"
       ]
     },
